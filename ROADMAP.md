@@ -1,5 +1,8 @@
 # Roadmap for this tool
 
+## Phase 0
+* It runs without catching fire.
+
 ## Phase 1
 * Dockerized container for ease of deployment.
 * Pluggable config for AWS.
@@ -19,3 +22,9 @@
 * Add Flask frontend
 * Add basic SPoG dashboard
 * Add output option AWS DBs / GCP DBs
+
+## Phase 5
+* Add alert stack (Twilio, Slack).
+* Add alert rules (basic things such as asset count shift above X percent. May add more.)
+* Create AMI???
+* Create dynamic tagging by account, region, or Tag.
