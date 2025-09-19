@@ -1,0 +1,1 @@
+SERVICES = {"EC2": "Amazon Elastic Compute Cloud (EC2)","ELB": "Elastic Load Balancing"}
